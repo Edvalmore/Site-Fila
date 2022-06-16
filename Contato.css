@@ -1,0 +1,46 @@
+.pagination {
+    margin-top: 20px;
+}
+footer {
+    padding: 40px;
+}
+footer a {
+    color: #f8f9fa!important
+}
+
+.icon {
+    width: 20px;
+}
+
+body {
+    background: -webkit-linear-gradient(left, #124cb6, #4286be);
+}
+
+main {
+    background-color: white;
+    margin: 25px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.separator {
+    text-align: center;
+}
+
+#linha-horizontal {
+    width: 300px;
+    border: 1px solid #000;
+}
+
+.central {
+    text-align: center;
+    font-family: f;
+    padding: 5px;
+}
+
+.description {
+    text-align: center;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
